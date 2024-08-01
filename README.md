@@ -60,6 +60,9 @@ Contributions are welcome! If you have any suggestions, improvements, or feature
 ## Contact
 If you have any questions or would like to get in touch, you can reach me at:
 
+## Vercel App
+Checkout my deployed app on vercel by clicking [here](https://portfolio-nasarzia.vercel.app/).
+
 Email: nasarzia786@gmail.com
 LinkedIn: Nasar Zia
 
